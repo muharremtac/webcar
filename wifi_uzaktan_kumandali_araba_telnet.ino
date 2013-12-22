@@ -1,8 +1,8 @@
 #include <SPI.h>
 #include <WiFi.h>
 
-char ssid[] = "muharremtacwifi"; //  your network SSID (name) 
-char pass[] = "muharremtac@123!";    // your network password (use for WPA, or use as key for WEP)
+char ssid[] = "WIFI_AGINIZIN_ADI"; //  your network SSID (name) 
+char pass[] = "WIFI_AGINIZIN_SIFRESI";    // your network password (use for WPA, or use as key for WEP)
 
 char motorHizi=0;
 int arkaMotor = 3;
